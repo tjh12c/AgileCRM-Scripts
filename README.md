@@ -1,7 +1,7 @@
 # Agile-Scripts
 Templates relating to Agile CRM that perform various functions
 
-* WooCommereOrderToAgileTag.php
+* WooCommerceOrderToAgileTag.php
 
 Takes data from Woocomerce orders and matches the order email with Agile CRM emails. Adds a tag in Agile for each order in the form of:
 "_Item 1 Name_Item 2 Name_Item 3 Name.Time/Date of purchase"
